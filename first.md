@@ -37,7 +37,8 @@ my name -> myName
 모두 var를 사용한다면 의미를 알 수 없음
 
 - 따라서 var은 쓰지말것
-```const a = 5;
+```
+const a = 5;
 const b = 2;
 const myName = "nico";
 
@@ -59,7 +60,7 @@ console.log("your new name is "+myName);
 - false와 다름 false는 false라는 값을 가짐
 - null은 아무것도 없는 상태로 채워진 거임
 
-```const amIFat = true;
+```
 let something;
 console.log(something); 
 ```
@@ -72,5 +73,10 @@ console.log(something);
 - null은 절대 자연적으로 발생하지 않음!  -> null은 우리가 변수안에 어떤 것이 없다는 것을 확실히 하기 위해 쓰는 것
   "비어있어요"를 표현
 
+```
+const amIFat = true;
+let something;
+console.log(something, amIFat);
+```
 - amIFat은  존재하고 값이 주어졌는데 그 값이 "비어있음"
 - something이라는 변수가 존재하는데 값이 주어지지 않은 것.

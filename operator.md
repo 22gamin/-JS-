@@ -118,8 +118,8 @@ console.log(ellie1 == ellie2);  //f 다른 레퍼런스를 가지고 있기 때�
 console.log(ellie1 === ellie2); //f
 console.log(ellie1 === ellie3); //t
 ```
-<img src=""C:\Users\LG\Desktop\img1.png"/>
-<!-- "C:\Users\LG\Desktop\img1.png" -->
+<img width="347" alt="img1" src="https://github.com/22gamin/-JS-/assets/108453365/d21529aa-7672-477f-9897-3c8a955f5281">
+
 ```javascript
 //equality - puzzler
 console.log(0 == false);    // t

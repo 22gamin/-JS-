@@ -118,7 +118,7 @@ console.log(ellie1 == ellie2);  //f 다른 레퍼런스를 가지고 있기 때�
 console.log(ellie1 === ellie2); //f
 console.log(ellie1 === ellie3); //t
 ```
-![img1](C:\Users\LG\Desktop\img1.png)
+<img src=""C:\Users\LG\Desktop\img1.png"/>
 <!-- "C:\Users\LG\Desktop\img1.png" -->
 ```javascript
 //equality - puzzler
